@@ -74,7 +74,7 @@ onMounted(() => {
                     </tr>
                     <tr>
                         <td>
-                            <code>1 Red<br>2 Green<br>3 Blue</code>
+                            <code>1. Red<br>2. Green<br>3. Blue</code>
                         </td>
                     </tr>
                 </table>
