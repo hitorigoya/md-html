@@ -6,5 +6,8 @@ export default defineNuxtConfig({
   css: ['~/assets/css/main.css'],
   vite: {
     plugins: [wasm()],
-  },
+    build: {
+      target: "esnext"
+    }
+  }
 })
